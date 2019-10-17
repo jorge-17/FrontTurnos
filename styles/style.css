@@ -3,3 +3,10 @@
     align-self: center;
     float: center;
 }
+#jumbo{
+	margin-bottom: 0rem !important;
+}
+#id{
+	color: lightgray;
+	float: right;
+}
